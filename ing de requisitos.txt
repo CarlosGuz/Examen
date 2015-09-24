@@ -17,4 +17,11 @@ La documentación de los requisitos como especificación.
 La validación de los requisitos documentados contra las necesidades de usuario.
 Así como los procesos que apoyan estas actividades.
 
+Desde un punto de vista conceptual, las actividades son de cinco clases.
 
+Obtener requisitos: a través de entrevistas o comunicación con clientes o futuros usuarios, para saber cuáles son sus expectativas.
+Analizar requisitos: detectar y corregir las carencias o falencias comunicativas, transformando los requisitos obtenidos de 
+entrevistas y requisitos, en condiciones apropiadas para ser tratados en el diseño.
+Documentar requisitos: igual que todas las etapas, los requisitos deben estar debidamente documentados.
+Verificar los requisitos: consiste en comprobar la implementación de los requerimientos.
+Validar los requisitos: comprobar que los requisitos implementados sean funcionales para lo que inicialmente se construyó el producto.
