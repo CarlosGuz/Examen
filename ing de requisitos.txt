@@ -9,3 +9,12 @@ El propósito de la ingeniería de requisitos es hacer que los mismos alcancen un 
 de diseño en el proyecto. Los buenos requisitos deben ser medibles, comprobables, sin ambigüedades o contradicciones, etc.
 
 
+La Ingeniería de Requisitos implica todas las actividades del ciclo de vida dedicadas a:
+
+La educción (a veces llamada "elicitación", debido a una mala traducción de "elicitation") de los requisitos de usuario.
+El análisis y negociación de requisitos para derivar requisitos adicionales.
+La documentación de los requisitos como especificación.
+La validación de los requisitos documentados contra las necesidades de usuario.
+Así como los procesos que apoyan estas actividades.
+
+
