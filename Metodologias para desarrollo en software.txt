@@ -1,0 +1,53 @@
+METODOLOGIAS PARA DESARROLLO DE SOFTWARE  Editar 0 40…
+
+Victor Antonio....
+
+METODOLOGÍAS ESTRUCTURADAS
+Los métodos estructurados comenzaron a desarrollarse a fines de los 70’s con la Programación Estructurada, 
+luego a mediados de los 70’s aparecieron técnicas para el Diseño (por ejemplo: el diagrama de Estructura) 
+primero y posteriormente para el Análisis (por ejemplo: Diagramas de Flujo de Datos). Estas metodologías 
+son particularmente apropiadas en proyectos que utilizan para la implementación lenguajes de 3ra y 4ta generación.
+Ejemplos de metodologías estructuradas de ámbito gubernamental: MERISE (Francia), MÉTRICA (España), SSADM 
+(Reino Unido). Ejemplos de propuestas de métodos estructurados en el ámbito académico: Gane & Sarson, Ward & Mellor, 
+Yourdon & DeMarco e Information Engineering.
+
+
+METODOLOGÍAS ORIENTADAS A OBJETOS
+Su historia va unida a la evolución de los lenguajes de programación orientada a objeto, los más representativos:
+ a fines de los 60’s SIMULA, a fines de los 70’s Smalltalk-80, la primera versión de C++ por Bjarne Stroustrup 
+en 1981 y actualmente Java o C# de Microsoft. A fines de los 80’s comenzaron a consolidarse algunos métodos 
+Orientadas a Objeto.
+En 1995 Booch y Rumbaugh proponen el Método Unificado con la ambiciosa idea de conseguir una unificación de sus 
+métodos y notaciones, que posteriormente se reorienta a un objetivo más modesto, para dar lugar al Unified 
+Modeling Language (UML), la notación Orientada a Objetos más popular en la actualidad.
+Algunas metodologías orientadas a objetos que utilizan la notación UML son:
+Rational Unified Process (RUP),
+OPEN,
+MÉTRICA (que también soporta la notación estructurada).
+METODOLOGÍAS TRADICIONALES
+Las metodologías no ágiles son aquellas que están guiadas por una fuerte planificación durante todo el 
+proceso de desarrollo; llamadas también metodologías tradicionales o clásicas, donde se realiza una 
+intensa etapa de análisis y diseño antes de la construcción del sistema.
+Todas las propuestas metodológicas antes indicadas pueden considerarse como metodologías tradicionales.
+ Aunque en el caso particular de RUP, por el especial énfasis que presenta en cuanto a su adaptación a 
+las condiciones del proyecto (mediante su configuración previa a aplicarse), realizando una configuración 
+adecuada, podría considerarse Ágil.
+METODOLOGÍAS ÁGILES
+
+Un proceso es ágil cuando el desarrollo de software es incremental (entregas pequeñas de software, con ciclos rápidos), 
+cooperativo (cliente y desarrolladores trabajan juntos constantemente con una cercana comunicación), sencillo (el método en sí mismo es fácil de aprender y modificar, bien documentado), y adaptable (permite realizar cambios de último momento).
+Entre las metodologías ágiles identificadas son:
+Extreme Programming
+Scrum
+Familia de Metodologías Crystal
+Feature Driven Development
+Proceso Unificado Rational, una configuración ágil
+Dynamic Systems Development Method
+Adaptive Software Development
+Open Source Software Development
+
+SEGUIDAMENTE DETALLAREMOS LAS SIGUIENTES METODOLOGÍAS PARA DESARROLLO DE SOFTWARE: 
+
+Rational Unified Process (RUP)
+Extreme Programming (XP)
+SCRUM
