@@ -1,0 +1,11 @@
+En la ingeniería de sistemas y la ingeniería de software, la Ingeniería de requisitos o Ingeniería de requerimientos1 
+comprende todas las tareas relacionadas con la determinación de las necesidades o de las condiciones a satisfacer 
+para un software nuevo o modificado, tomando en cuenta los diversos requisitos de las partes interesadas, 
+que pueden entrar en conflicto entre ellos.
+
+Muchas veces se habla de requerimientos en vez de requisitos; esto se debe a una mala traducción del inglés.
+La palabra requirement debe ser traducida como requisito, mientras que requerimiento se traduce al inglés como request.
+El propósito de la ingeniería de requisitos es hacer que los mismos alcancen un estado óptimo antes de alcanzar la fase
+de diseño en el proyecto. Los buenos requisitos deben ser medibles, comprobables, sin ambigüedades o contradicciones, etc.
+
+
