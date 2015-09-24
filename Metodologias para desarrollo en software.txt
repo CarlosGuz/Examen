@@ -34,6 +34,7 @@ las condiciones del proyecto (mediante su configuración previa a aplicarse), rea
 adecuada, podría considerarse Ágil.
 METODOLOGÍAS ÁGILES
 
+Objetivo
 Un proceso es ágil cuando el desarrollo de software es incremental (entregas pequeñas de software, con ciclos rápidos), 
 cooperativo (cliente y desarrolladores trabajan juntos constantemente con una cercana comunicación), sencillo (el método en sí mismo es fácil de aprender y modificar, bien documentado), y adaptable (permite realizar cambios de último momento).
 Entre las metodologías ágiles identificadas son:
@@ -51,3 +52,9 @@ SEGUIDAMENTE DETALLAREMOS LAS SIGUIENTES METODOLOGÍAS PARA DESARROLLO DE SOFTWAR
 Rational Unified Process (RUP)
 Extreme Programming (XP)
 SCRUM.
+
+
+
+Algunas de las metodologías tradicionales más utilizadas para el desarrollo de software han sido, la denominada “proceso personal de software (PSP)” y la “proceso en equipo para el software TSP”. El TSP toma sus fundamentos en que los ingenieros deben de dar a conocer bien su trabajo y que puedan implementar un plan para poderlo realizar mejor, cuando el plan se implementa, pueden ahorrarse tiempo en realizar el trabajo y por ende generar productos de calidad. El TSP contempla dos componentes principales: 
+1)	Creación de equipo
+2)	Trabajo en equipo o componente de gestión.
